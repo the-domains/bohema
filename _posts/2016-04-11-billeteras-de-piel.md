@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'urn:uuid:0ebcfab9-5b4b-42f2-b45f-82e8a5905582'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Compartimento para 12 tarjetas
-datePublished: '2016-04-11T18:41:42.787Z'
-dateModified: '2016-04-11T18:41:42.463Z'
+datePublished: '2016-04-11T18:45:51.330Z'
+dateModified: '2016-04-11T18:45:46.428Z'
 author: []
 title: 'Billeteras de piel '
 sourcePath: _posts/2016-04-11-billeteras-de-piel.md
@@ -19,6 +18,7 @@ publisher:
   domain: ''
   url: null
   favicon: null
+url: billeteras-de-piel/index.html
 _context: 'http://schema.org'
 _type: Article
 
