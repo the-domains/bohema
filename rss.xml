@@ -4,7 +4,7 @@
         <description><![CDATA[Bohema]]></description>
         <link>http://www.bohema.mx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 21:06:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 21:10:22 GMT</lastBuildDate>
         <atom:link href="http://www.bohema.mx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bohema® ]]></title>
@@ -34,13 +34,6 @@ una marca productora de artículos de piel</p><img src="https://the-grid-user-co
             <link>http://www.bohema.mx/68a546a2-51fd-4967-937a-b1b176755c2b/index.html</link>
             <guid isPermaLink="false">68a546a2-51fd-4967-937a-b1b176755c2b</guid>
             <pubDate>Mon, 11 Apr 2016 19:55:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10bd7db3-305c-4749-8b94-79679e259195.png">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/10bd7db3-305c-4749-8b94-79679e259195.png</link>
-            <guid isPermaLink="false">c6935e5c-6f7d-486d-a13d-a85967035748</guid>
-            <pubDate>Mon, 11 Apr 2016 19:14:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
