@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Billeteras
-datePublished: '2016-04-11T22:08:22.172Z'
-dateModified: '2016-04-11T22:07:18.173Z'
+datePublished: '2016-04-11T22:09:26.130Z'
+dateModified: '2016-04-11T22:08:31.415Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-11-billeteras.md
