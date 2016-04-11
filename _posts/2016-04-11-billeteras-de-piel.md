@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Compartimento para 12 tarjetas
-datePublished: '2016-04-11T18:31:27.192Z'
-dateModified: '2016-04-11T18:30:01.986Z'
+datePublished: '2016-04-11T18:33:56.270Z'
+dateModified: '2016-04-11T18:31:35.833Z'
 author: []
 title: 'Billeteras de piel '
 sourcePath: _posts/2016-04-11-billeteras-de-piel.md
