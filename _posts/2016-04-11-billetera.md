@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_"
-datePublished: '2016-04-11T19:15:59.654Z'
-dateModified: '2016-04-11T19:15:42.761Z'
+datePublished: '2016-04-11T19:16:45.023Z'
+dateModified: '2016-04-11T19:16:43.100Z'
 author: []
 title: Billetera
 sourcePath: _posts/2016-04-11-billetera.md
