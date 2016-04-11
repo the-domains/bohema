@@ -1,7 +1,7 @@
 name: Bohema
 favicon: null
-layout_spectrum: 0.7551
-typography_spectrum: 0.81076
+layout_spectrum: 0.74384
+typography_spectrum: 0.13518
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#dbe4e3'
     - '#181b1b'
     - '#bac3c2'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.0625
-  saturation: 0.5
-  rhythmicContrast: 0.75
+  saturation: 0.8125
+  rhythmicContrast: 1
 purpose: []
